@@ -1,0 +1,257 @@
+﻿Player,Name,Team,Position,College
+1,Jameis Winston,Buccaneers,QB,Florida State
+2,Marcus Mariota,Titans,QB,Oregon
+3,Dante Fowler,Jaguars,LB,Florida
+4,Amari Cooper,Raiders,WR,Alabama
+5,Brandon Scherff,Redskins,G,Iowa
+6,Leonard Williams,Jets,DE,USC
+7,Kevin White,Bears,WR,West Virginia
+8,Vic Beasley,Falcons,LB,Clemson
+9,Ereck Flowers,Giants,G,Miami (FL)
+10,Todd Gurley,Rams,RB,Georgia
+11,Trae Waynes,Vikings,DB,Michigan State
+12,Danny Shelton,Browns,DT,Washington
+13,Andrus Peat,Saints,T,Stanford
+14,DeVante Parker,Dolphins,WR,Louisville
+15,Melvin Gordon,Chargers,RB,Wisconsin
+16,Kevin Johnson,Texans,DB,Wake Forest
+17,Arik Armstead,49ers,DT,Oregon
+18,Marcus Peters,Chiefs,DB,Washington
+19,Cameron Erving,Browns,C,Florida State
+20,Nelson Agholor,Eagles,WR,USC
+21,Cedric Ogbuehi,Bengals,T,Texas A&M
+22,Bud Dupree,Steelers,LB,Kentucky
+23,Shane Ray,Broncos,DE,Missouri
+24,D.J. Humphries,Cardinals,T,Florida
+25,Shaq Thompson,Panthers,LB,Washington
+26,Breshad Perriman,Ravens,WR,Central Florida
+27,Byron Jones,Cowboys,DB,Connecticut
+28,Laken Tomlinson,Lions,G,Duke
+29,Phillip Dorsett,Colts,WR,Miami (FL)
+30,Damarious Randall,Packers,DB,Arizona State
+31,Stephone Anthony,Saints,LB,Clemson
+32,Malcom Brown,Patriots,DT,Texas
+33,Landon Collins,Giants,DB,Alabama
+34,Donovan Smith,Buccaneers,T,Penn State
+35,Mario Edwards,Raiders,DT,Florida State
+36,T.J. Yeldon,Jaguars,RB,Alabama
+37,Devin Smith,Jets,WR,Ohio State
+38,Preston Smith,Redskins,DE,Mississippi State
+39,Eddie Goldman,Bears,DT,Florida State
+40,Dorial Green-Beckham,Titans,WR,Missouri
+41,Devin Funchess,Panthers,WR,Michigan
+42,Jalen Collins,Falcons,DB,Louisiana State
+43,Benardrick McKinney,Texans,LB,Mississippi State
+44,Hau'oli Kikaha,Saints,LB,Washington
+45,Eric Kendricks,Vikings,LB,UCLA
+46,Jaquiski Tartt,49ers,DB,Samford
+47,Eric Rowe,Eagles,DB,Utah
+48,Denzel Perryman,Chargers,LB,Miami (FL)
+49,Mitch Morse,Chiefs,G,Missouri
+50,Ronald Darby,Bills,DB,Florida State
+51,Nate Orchard,Browns,DE,Utah
+52,Jordan Phillips,Dolphins,DT,Oklahoma
+53,Jake Fisher,Bengals,T,Oregon
+54,Ameer Abdullah,Lions,RB,Nebraska
+55,Maxx Williams,Ravens,TE,Minnesota
+56,Senquez Golson,Steelers,DB,Mississippi
+57,Rob Havenstein,Rams,T,Wisconsin
+58,Markus Golden,Cardinals,DE,Missouri
+59,Ty Sambrailo,Broncos,T,Colorado State
+60,Randy Gregory,Cowboys,LB,Nebraska
+61,Ali Marpet,Buccaneers,C,Hobart
+62,Quinten Rollins,Packers,DB,Miami (OH)
+63,Frank Clark,Seahawks,DE,Michigan
+64,Jordan Richards,Patriots,DB,Stanford
+65,D'Joun Smith,Colts,DB,Florida Atlantic
+66,Jeremiah Poutasi,Titans,G,Utah
+67,A.J. Cann,Jaguars,G,South Carolina
+68,Clive Walford,Raiders,TE,Miami (FL)
+69,Tyler Lockett,Seahawks,WR,Kansas State
+70,Jaelen Strong,Texans,WR,Arizona State
+71,Hroniss Grasu,Bears,C,Oregon
+72,Jamon Brown,Rams,T,Louisville
+73,Tevin Coleman,Falcons,RB,Indiana
+74,Owamagbe Odighizuwa,Giants,DE,UCLA
+75,Garrett Grayson,Saints,QB,Colorado State
+76,Chris Conley,Chiefs,WR,Georgia
+77,Duke Johnson Jr.,Browns,RB,Miami
+78,P.J. Williams,Saints,DB,Florida State
+79,Eli Harold,49ers,LB,Virginia
+80,Alex Carter,Lions,DB,Stanford
+81,John Miller,Bills,G,Louisville
+82,Lorenzo Mauldin,Jets,LB,Louisville
+83,Craig Mager,Chargers,DB,Texas State
+84,Jordan Hicks,Eagles,LB,Texas
+85,Tyler Kroft,Bengals,TE,Rutgers
+86,David Johnson,Cardinals,RB,Northern Iowa
+87,Sammie Coates,Steelers,WR,Auburn
+88,Danielle Hunter,Vikings,DE,Louisiana State
+89,Sean Mannion,Rams,QB,Oregon State
+90,Carl Davis,Ravens,DT,Iowa
+91,Chaz Green,Cowboys,T,Florida
+92,Jeff Heuerman,Broncos,TE,Ohio State
+93,Henry Anderson,Colts,DE,Stanford
+94,Ty Montgomery,Packers,WR,Stanford
+95,Matt Jones,Redskins,RB,Florida
+96,Xavier Cooper,Browns,DT,Washington State
+97,Geneo Grissom,Patriots,DE,Oklahoma
+98,Steven Nelson,Chiefs,DB,Oregon State
+99,Paul Dawson,Bengals,LB,Texas Christian
+100,Angelo Blackson,Titans,DT,Auburn
+101,Trey Flowers,Patriots,DE,Arkansas
+102,Daryl Williams,Panthers,G,Oklahoma
+103,Bryce Petty,Jets,QB,Baylor
+104,James Sample,Jaguars,DB,Louisville
+105,Jamison Crowder,Redskins,WR,Duke
+106,Jeremy Langford,Bears,RB,Michigan State
+107,Justin Hardy,Falcons,WR,East Carolina
+108,Jalston Fowler,Titans,RB,Alabama
+109,Clayton Geathers,Colts,DB,Central Florida
+110,T.J. Clemmings,Vikings,T,Pittsburgh
+111,Tre' Jackson,Patriots,G,Florida State
+112,Arie Kouandjio,Redskins,G,Alabama
+113,Gabe Wright,Lions,DT,Auburn
+114,Jamil Douglas,Dolphins,G,Arizona State
+115,Ibraheim Campbell,Browns,DB,Northwestern
+116,Rodney Gunter,Cardinals,DT,Delaware State
+117,Blake Bell,49ers,TE,Oklahoma
+118,Ramik Wilson,Chiefs,LB,Georgia
+119,Andrew Donnal,Rams,T,Iowa
+120,Josh Shaw,Bengals,DB,USC
+121,Doran Grant,Steelers,DB,Ohio State
+122,Za'Darius Smith,Ravens,DE,Kentucky
+123,Vince Mayle,Browns,WR,Washington State
+124,Kwon Alexander,Buccaneers,LB,Louisiana State
+125,Javorius Allen,Ravens,RB,USC
+126,Mike Davis,49ers,RB,South Carolina
+127,Damien Wilson,Cowboys,LB,Minnesota
+128,Jon Feliciano,Raiders,G,Miami (FL)
+129,Jake Ryan,Packers,LB,Michigan
+130,Terry Poole,Seahawks,G,San Diego State
+131,Shaquille Mason,Patriots,C,Georgia Tech
+132,DeAndre Smelter,49ers,WR,Georgia Tech
+133,Max Garcia,Broncos,C,Florida
+134,Mark Glowinski,Seahawks,G,West Virginia
+135,Marcus Hardison,Bengals,DE,Arizona State
+136,Tray Walker,Ravens,DB,Texas Southern
+137,Grady Jarrett,Falcons,DT,Clemson
+138,David Cobb,Titans,RB,Minnesota
+139,Rashad Greene,Jaguars,WR,Florida State
+140,Ben Heeney,Raiders,LB,Kansas
+141,Martrell Spaight,Redskins,LB,Arkansas
+142,Adrian Amos,Bears,DB,Penn State
+143,MyCole Pruitt,Vikings,TE,Southern Illinois
+144,Mykkele Thompson,Giants,DB,Texas
+145,Bobby McCain,Dolphins,DB,Memphis
+146,Stefon Diggs,Vikings,WR,Maryland
+147,Brett Hundley,Packers,QB,UCLA
+148,Davis Tull,Saints,LB,Tennessee-Chattanooga
+149,Jay Ajayi,Dolphins,RB,Boise State
+150,Cedric Thompson,Dolphins,DB,Minnesota
+151,David Parry,Colts,DT,Stanford
+152,Jarvis Harrison,Jets,G,Texas A&M
+153,Kyle Emanuel,Chargers,LB,North Dakota State
+154,Tyeler Davison,Saints,DT,Fresno State
+155,Karlos Williams,Bills,RB,Florida State
+156,Tony Lippett,Dolphins,WR,Michigan State
+157,C.J. Uzomah,Bengals,TE,Auburn
+158,Shaquille Riddick,Cardinals,DE,West Virginia
+159,J.J. Nelson,Cardinals,WR,Alabama-Birmingham
+160,Jesse James,Steelers,TE,Penn State
+161,Neiron Ball,Raiders,LB,Florida
+162,Kenny Bell,Buccaneers,WR,Nebraska
+163,Ryan Russell,Cowboys,DE,Purdue
+164,Lorenzo Doss,Broncos,DB,Tulane
+165,Bradley Pinion,49ers,P,Clemson
+166,Joe Cardona,Patriots,C,Navy
+167,Damian Swann,Saints,DB,Georgia
+168,Michael Burton,Lions,RB,Rutgers
+169,David Mayo,Panthers,LB,Texas State
+170,Tye Smith,Seahawks,DB,Towson
+171,Nick Boyle,Ravens,TE,Delaware
+172,D.J. Alexander,Chiefs,LB,Oregon State
+173,James O'Shaughnessy,Chiefs,TE,Illinois State
+174,Cameron Artis-Payne,Panthers,RB,Auburn
+175,Keith Mumphery,Texans,WR,Michigan State
+176,Robert Myers,Ravens,G,Tennessee State
+177,Deiontrez Mount,Titans,LB,Louisville
+178,Matthew Wells,Patriots,LB,Mississippi State
+179,Max Valles,Raiders,LB,Virginia
+180,Michael Bennett,Jaguars,DT,Ohio State
+181,Kyshoen Jarrett,Redskins,DB,Virginia Tech
+182,Tevin Mitchel,Redskins,DB,Arkansas
+183,Tayo Fabuluje,Bears,G,Texas Christian
+184,Kaelin Clay,Buccaneers,WR,Utah
+185,Tyrus Thompson,Vikings,T,Oklahoma
+186,Geremy Davis,Giants,WR,Connecticut
+187,Evan Spencer,Redskins,WR,Ohio State
+188,Tony Steward,Bills,LB,Clemson
+189,Charles Gaines,Browns,DB,Louisville
+190,Ian Silberman,49ers,G,Boston College
+191,JaCorey Shepherd,Eagles,DB,Kansas
+192,Darius Philon,Chargers,DT,Arkansas
+193,B.J. Dubose,Vikings,DE,Louisville
+194,Nick O'Leary,Bills,TE,Florida State
+195,Malcolm Johnson,Browns,TE,Mississippi State
+196,Randall Evans,Eagles,DB,Kansas State
+197,Derron Smith,Bengals,DB,Fresno State
+198,Randall Telfer,Browns,TE,USC
+199,Leterrius Walton,Steelers,DT,Central Michigan
+200,Quandre Diggs,Lions,DB,Texas
+201,Bud Sasser,Rams,WR,Missouri
+202,A.J. Derby,Patriots,TE,Arkansas
+203,Darius Kilgo,Broncos,DT,Maryland
+204,Darren Waller,Ravens,WR,Georgia Tech
+205,Josh Robinson,Colts,RB,Mississippi State
+206,Aaron Ripkowski,Packers,RB,Oklahoma
+207,Amarlo Herrera,Colts,LB,Georgia
+208,Andy Gallik,Titans,C,Boston College
+209,Obum Gwacham,Seahawks,DE,Oregon State
+210,Christian Ringo,Packers,DE,Louisiana-Lafayette
+211,Reshard Cliett,Texans,LB,South Florida
+212,Anthony Chickillo,Steelers,DE,Miami (FL)
+213,Kennard Backman,Packers,TE,Alabama-Birmingham
+214,Kristjan Sokoli,Seahawks,DT,Buffalo
+215,Cody Wichmann,Rams,G,Fresno State
+216,Christian Covington,Texans,DT,Rice
+217,Rakeem Nunez-Roches,Chiefs,DT,Southern Mississippi
+218,Anthony Morris,Raiders,T,Tennessee State
+219,Hayes Pullard,Browns,LB,USC
+220,Neal Sterling,Jaguars,WR,Monmouth
+221,Andre Debose,Raiders,WR,Florida
+222,Austin Reiter,Redskins,C,South Florida
+223,Deon Simon,Jets,DT,Northwestern State (LA)
+224,Bryce Hager,Rams,LB,Baylor
+225,Jake Rodgers,Falcons,T,Eastern Washington
+226,Bobby Hart,Giants,G,Florida State
+227,Martin Ifedi,Rams,DE,Memphis
+228,Austin Shepherd,Vikings,T,Alabama
+229,Ben Koyack,Jaguars,TE,Notre Dame
+230,Marcus Murphy,Saints,RB,Missouri
+231,Joey Iosefa,Buccaneers,RB,Hawaii
+232,Edmond Robinson,Vikings,LB,Newberry
+233,Da'Ron Brown,Chiefs,WR,Northern Illinois
+234,Dezmin Lewis,Bills,WR,Central Arkansas
+235,Kenny Hilliard,Texans,RB,LSU
+236,Mark Nzeocha,Cowboys,LB,Wyoming
+237,Brian Mihalik,Eagles,DE,Boston College
+238,Mario Alford,Bengals,WR,West Virginia
+239,Gerod Holliman,Steelers,DB,Louisville
+240,Corey Robinson,Lions,T,South Carolina
+241,Ifo Ekpre-Olomu,Browns,DB,Oregon
+242,Dexter McDonald,Raiders,DB,Kansas
+243,Laurence Gibson,Cowboys,T,Virginia Tech
+244,Trent Brown,49ers,G,Florida
+245,Tre McBride,Titans,WR,William & Mary
+246,Geoff Swaim,Cowboys,TE,Texas
+247,Darryl Roberts,Patriots,DB,Marshall
+248,Ryan Murphy,Seahawks,DB,Oregon State
+249,Akeem King,Falcons,DB,San Jose State
+250,Trevor Siemian,Broncos,QB,Northwestern
+251,Taurean Nixon,Broncos,DB,Tulane
+252,Josh Furman,Broncos,DB,Oklahoma State
+253,Xzavier Dickson,Patriots,LB,Alabama
+254,Rory 'Busta' Anderson,49ers,TE,South Carolina
+255,Denzell Goode,Colts,T,Mars Hill
+256,Gerald Christian,Cardinals,TE,Louisville
